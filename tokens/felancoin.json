@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "C5DMLBsjDCVZKQmb2w2Gj9nyz4zAcWTeSb6vTvA6kpnX",
+  "symbol": "FLN",
+  "name": "Felan",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/Felancoin/felantoken-whitepaper/main/felan_whitepaper.pdf",
+  "tags": ["utility-token", "felan-project"],
+  "extensions": {
+    "website": "https://felanorbit.xyz",
+    "description": "Felancoin (FLN) is the official token of the Felan Orbit project, linking readers to a limited edition book experience powered by the Solana blockchain.",
+    "whitepaper": "https://github.com/Felancoin/felantoken-whitepaper/blob/main/felan_whitepaper.pdf"
+  }
+}
